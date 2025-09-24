@@ -9,7 +9,7 @@ class Ejercicio1
         Console.WriteLine("Ingrese la altura del cilindro:");
         float altura = float.Parse(Console.ReadLine());
         /*
-        Aplicando la formula del volumen del cilindro. 
+        Aplicando la formula del volumen del cilindro y del area. 
         */
 
     }
