@@ -13,6 +13,8 @@ Esta carpeta tiene una documentacion del uso de git y github durante el desarrol
 - git config --global user.email "Tu correo electronico"
 - git config --global code.editor "code-wait"
 
+# Inicializar el Repositorio 
 
+- Git init 
 
 
