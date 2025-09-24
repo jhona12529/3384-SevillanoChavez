@@ -11,7 +11,9 @@ class Ejercicio2
         /*
         Aplicando la formula del area del triangulo.
         */
-        
+        float area = (baseTri * altura) / 2;
+        Console.WriteLine("El area del triangulo es " + area + " m2");
+        Console.ReadKey();
     }
 }
 
